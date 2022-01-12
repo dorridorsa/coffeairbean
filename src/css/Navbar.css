@@ -1,0 +1,41 @@
+#navbar {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  background-color: #2f2926;
+}
+
+#cross {
+  position: absolute;
+  top: 12px;
+  left: 12px;
+  cursor: pointer;
+}
+
+.text-link {
+  color: #f3e4e1;
+  margin: 0.5rem;
+  text-decoration: none;
+  font-family: "PT serif";
+  font-size: 1.5rem;
+}
+
+hr {
+  width: 2.5rem;
+  height: 1px;
+  color: rgba(255, 255, 255, 0.2);
+  text-decoration: none;
+  border-radius: 2px;
+  
+  
+}
+.wrap {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  position: relative;
+}

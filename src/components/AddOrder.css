@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=PT+Serif:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans&display=swap");
+
+.title-cart {
+  margin-top: 20px;
+  /* margin-right: 200px; */
+  font-size: 23px;
+  font-family: "PT Serif", serif;
+  list-style-type: none;
+}
+
+.price-cart {
+  /* margin-right: 200px; */
+  font-size: 12px;
+  font-family: "Work Sans", sans-serif;
+  list-style-type: none;
+}

@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=PT+Serif:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans&display=swap");
+
+#about {
+  background-color: #f3e4e1;
+  color: #2f2926;
+}
+
+#title-about {
+  font-family: "PT Serif", serif;
+  font-size: 42px;
+  font-weight: 700;
+  text-align: left;
+  padding-left: 30px;
+}
+
+#text-about {
+  font-family: "PT Serif", serif;
+}
+
+p {
+  font-family: "Work Sans", sans-serif;
+}
+
+section {
+  padding: 0px 30px 0px 30px;
+  text-align: left;
+}

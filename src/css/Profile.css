@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=PT+Serif:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans&display=swap");
+
+#profil {
+  background-color: #2f2926;
+  color: #f3e4e1;
+  height: 100vh;
+}
+
+.username-text {
+  font-family: "PT Serif", serif;
+  font-size: 24px;
+  margin-top: 20px;
+}
+
+.email-text {
+  font-family: "Work Sans", sans-serif;
+  font-size: 14px;
+  margin-bottom: 70px;
+}
+
+#text-profil {
+  font-family: "PT Serif", serif;
+  font-size: 22px;
+  text-align: left;
+  margin-left: 20px;
+}
+
